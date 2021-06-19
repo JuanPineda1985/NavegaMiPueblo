@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "746148265458",
+    "project_id": "navegamipueblo",
+    "storage_bucket": "navegamipueblo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746148265458:android:3c148ee8b275d66020ff6b",
+        "android_client_info": {
+          "package_name": "com.example.navegamipueblo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746148265458-m10rd0s33ri9a5v5s6k32i7j9noq0hdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8JxKoYYCsuZb3UmzbWe_PuByqAt_HiYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746148265458-m10rd0s33ri9a5v5s6k32i7j9noq0hdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

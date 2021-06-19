@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NavegaMiPueblo</string>
+    <string name="AyudaLogin">User</string>
+    <string name="BotonLog">lets Travel!</string>
+    <string name="Descripcion1">the Main Park is a meeting place that it is necessary to know, where the muleteers and coffee growers meet to talk about different topics. In the surroundings you will find a variety of places to enjoy much more the stay in Betulia</string>
+    <string name="Descripcion2"> The Parish The Immaculate Conception was declared as a parish in 1882 by Bishop Jesus Maria Balbin and belongs to the diocese of Jerico</string>
+    <string name="Descripcion3">the fleet that takes you to Betulia is Sotraur and you can take it at the ticket office 29 in the South Terminal</string>
+    <string name="Opcion1">About</string>
+    <string name="Opcion2">English</string>
+    <string name="Opcion3">Español</string>
+    <string name="perfilNombre">Juan David Pineda Monsalve</string>
+    <string name="perfil">My name is Juan David Pineda Monsalve, I am a programmer and I have experience in languages such as PHP and JAVA. I am passionate in my work and I know closely all the operation on the legality of various software from giants such as Microsoft, Redhat, Autodesk and Oracle</string>
+    <string name="verMas">More</string>
+    <string name="ParquePP">Principal Park</string>
+</resources>

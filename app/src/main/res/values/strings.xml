@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NavegaMiPueblo</string>
+    <string name="AyudaLogin">Usuario</string>
+    <string name="BotonLog">Viajar!</string>
+    <string name="Descripcion1">el Parque Principal es un lugar de encuentro que es necesario conocer, lugar donde los arrieros y cafeteros se reunen para conversar sobre diferentes temas. A los alrededores encontraras variedad de sitios para disfrutar mucho mas la estadia en Betulia</string>
+    <string name="Descripcion2"> La Parroquia La inmaculada concepcion fue declara como parroquia en el año 1882 por el obispo Jesus Maria Balbin y pertenece a la diocesis de Jerico</string>
+    <string name="Descripcion3">la flota que te lleva a Betulia es Sotraur y puedes tomarla en la taquilla 29 en la Terminal del sur</string>
+    <string name="Opcion1">Acerca de</string>
+    <string name="Opcion2">English</string>
+    <string name="Opcion3">Español</string>
+    <string name="perfilNombre">Juan David Pineda Monsalve</string>
+    <string name="perfil">Mi nombre es Juan David Pineda Monsalve, soy programador y tengo experiencia en lenguajes tales como PHP y JAVA. soy apasionado en mi trabajo y conozco de cerca todo el funcionamiento sobre la legalidad de diversos software de gigantes como Microsoft, Redhat, Autodesk y Oracle</string>
+    <string name="verMas">Ver Mas</string>
+    <string name="ParquePP">Parque Principal</string>
+</resources>
